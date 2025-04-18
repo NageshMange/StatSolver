@@ -19,11 +19,7 @@ A web-based calculator that computes **Standard Deviation** and **Coefficient of
 
 ## Live Demo
 
-[Click here to try it out](#) *(Replace with GitHub Pages/Netlify link if deployed)*
-
-## Screenshots
-
-*(Add screenshots here showing raw data input, frequency input, and result display)*
+https://nageshmange.github.io/StatSolver
 
 ## Technologies Used
 
