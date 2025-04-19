@@ -29,6 +29,6 @@ https://nageshmange.github.io/StatSolver/
 
 ## How to Use
 
-1. Clone the repository:
+- Clone the repository:
    ```bash
    https://github.com/NageshMange/StatSolver.git
